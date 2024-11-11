@@ -1,6 +1,7 @@
 # Flask Video Upload and Download
-
+![Flask Video Upload and Download](shortcut.png)
 This is a simple Flask application that allows users to upload and download video files.
+
 
 ## Features
 
